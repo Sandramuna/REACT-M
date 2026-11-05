@@ -29,6 +29,6 @@ export default App;
       <p>In 5 years, I will be {age + 5} years old.</p>
     </div>
   );
-}
+
 
 export default App;
